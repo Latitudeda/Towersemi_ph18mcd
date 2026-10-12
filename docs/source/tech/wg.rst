@@ -12,6 +12,8 @@ The waveguide settings are defined in the wg folder.
    wg_factory
    wg_SiN_strip
    wg_SiN_strip_bends
+   wg_ridgenitride
+   wg_ridgenitride_bends
    wg_strip
    wg_strip_bends
    wg_ridge
